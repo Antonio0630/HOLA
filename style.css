@@ -1,6 +1,7 @@
 .menu {
-    background-color: #333;
     color: #fff;
+    padding-bottom: 15px ;
+    padding-top: 15px;
 }
 
 .menu ul {
@@ -64,3 +65,22 @@ main {
 
     }
 }   
+
+.imagen2 img{
+    height: 25px;
+
+
+}
+
+
+.header {
+    background-color: #333;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.ul {
+    display: flex;
+    justify-content: space-between;
+}
